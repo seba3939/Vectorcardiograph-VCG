@@ -1,5 +1,7 @@
 VCG-3D spatial vectocardiography system
 
+![image](https://github.com/user-attachments/assets/e57a6bd0-07c8-4456-9507-dea9f98141d5)
+
 This project consists of the development of a 3D spatial vectocardiography system: from its electronic and software design to the construction of its physical components. 
 
 The code included in the microprocessor is presented, where an Arduino Mega 2560 was used. This was programmed in C language to make use of the analogue inputs and convert the cardiac signal coming from the electronic device into its digital equivalent to be subsequently processed in the system.
